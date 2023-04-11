@@ -1,2 +1,2 @@
-# 001_Time_Series_Data_Analysis_and_Exploratory_Analysis_
+# 001Time Series Data Analysis and Exploratory Analysis
 Time_Series_Data_Analysis_and_Exploratory_Analysis_
